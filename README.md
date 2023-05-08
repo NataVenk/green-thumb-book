@@ -1,3 +1,12 @@
+# Green Thumb Book
+
+An app that helps to save cards that plants come with, keep track of plant history, set up watering/fertilization/replanting schedules (reminders?). User can add image of the plant as it grows.
+
+add API call for weather for the day based on user location
+
+calendar page that has schedule to plants water/fertilizaiton/repotting
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
